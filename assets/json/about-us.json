@@ -1,0 +1,42 @@
+{
+    "tamil" : [
+       {
+            "id":1,
+            "content":"கலைஞர் 100 வினாடி வினா போட்டி! "
+       },
+       {
+            "id":2,
+            "content":"2023 ஆண்டு முன்னாள் முதலமைச்சர் கலைஞர் மு. கருணாநிதி அவர்களின் நூற்றாண்டாகும். ஒப்பில்லா திராவிடத் தலைவர், திறமையான நிர்வாகி, ஆற்றல்மிகு எழுத்தாளர் என்ற பெருமைக்குச் சொந்தக்காரர் கலைஞர். கல்வியின் முக்கியத்துவத்தையும், அறிவைப் பகிர்ந்து கொள்வதையும் வலியுறுத்தியவர் தலைவர் கலைஞர். இதுவே இந்த வினாடி வினா போட்டியை நடத்தி திராவிட இயக்கத்தை புதிய பரிணாமத்துக்குக் கொண்டுசெல்ல உந்துதலாக இருந்தது."
+       },
+       {
+            "id":3,
+            "content":"இந்த வினாடி வினா போட்டி வயது அடிப்படையில் இரண்டு பிரிவுகளாக நடத்தப்படும்- ‘18 வயதுக்கு மேல்’ மற்றும் ‘18 வயதுக்குக் கீழ்’. மூன்று நிலைகள் இருக்கும். ஒவ்வொரு கட்டத்தின் தகுதித் தரங்களின் அடிப்படையில் வெற்றிபெற்றவர்கள் அடுத்த நிலைக்கு முன்னேறுவார்கள்."
+       },
+       {
+            "id":4,
+            "content":"இறுதிப்போட்டி சென்னையில் முதலமைச்சர் திரு மு.க.ஸ்டாலின் முன்னிலையில் வினாடி வினா போட்டி அமைப்பாளர் நாடாளுமன்ற உறுப்பினர் திருமிகு. கனிமொழி கருணாநிதி அவர்களின் ஒருங்கிணைப்பில் நடைபெறும்."
+       }
+    ],
+    "english":[
+        {
+            "id":1,
+            "content":"The Kalaignar100 Quiz is finally here."
+       },
+       {
+            "id":2,
+            "content":"2023 marks the 100th anniversary of the birth Former Chief Minister Kalaignar M. Karunanidhi. Among all other things, we’ll always remember him as a Dravidian stalwart, an able administrator, and a phenomenal writer. Kalaignar was always a leader who stressed the importance of education and sharing knowledge. This was the motivation behind conducting this quiz and creating this platform for engaging with the Dravidian movement in a new dimension."
+       },
+       {
+            "id":3,
+            "content":"This Open-to-all team quiz will be conducted in two categories based on age- ‘Above 18’ and ‘Below 18’. There will be three stages. Best performers based on the qualification standards of each stage move to the next."
+       },
+       {
+            "id":4,
+            "content":"The finals will be conducted in Chennai, in the presence of Chief Minister Thiru. M.K. Stalin, with Member of Parliament Thirumigu. Kanimozhi Karunanidhi as the Quizmaster."
+       },
+       {
+            "id":5,
+            "content":"We invite you to participate in the quiz and win prizes worth Rs. 10 lakh."
+       }
+    ]
+}

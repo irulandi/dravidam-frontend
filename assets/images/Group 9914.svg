@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1109" height="501" viewBox="0 0 1109 501">
+  <defs>
+    <filter id="Subtraction_2" x="2.999" y="3" width="1106" height="498" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_17" x="0" y="0" width="120" height="120" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur-2"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_9914" data-name="Group 9914" transform="translate(-127 -156)">
+    <g transform="matrix(1, 0, 0, 1, 127, 156)" filter="url(#Subtraction_2)">
+      <path id="Subtraction_2-2" data-name="Subtraction 2" d="M5521,11661H4453a10.011,10.011,0,0,1-10-10v-378.173a65.189,65.189,0,0,0,21.33,15.464,64.574,64.574,0,0,0,12.823,4.229,65.056,65.056,0,0,0,77.371-77.368,64.678,64.678,0,0,0-10.9-24.311,65.486,65.486,0,0,0-8.8-9.842H5521a10.011,10.011,0,0,1,10,10v460A10.011,10.011,0,0,1,5521,11661Z" transform="translate(-4431 -11172)" fill="#fff"/>
+    </g>
+    <g id="Group_6835" data-name="Group 6835">
+      <g transform="matrix(1, 0, 0, 1, 127, 156)" filter="url(#Ellipse_17)">
+        <circle id="Ellipse_17-2" data-name="Ellipse 17" cx="48" cy="48" r="48" transform="translate(12 9)" fill="#f2b705"/>
+      </g>
+      <text id="_01" data-name="01" transform="translate(187 224)" fill="#050505" font-size="30" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="-15" y="0">01</tspan></text>
+    </g>
+  </g>
+</svg>

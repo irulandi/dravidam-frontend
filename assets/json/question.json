@@ -1,0 +1,25 @@
+{
+    "question" : [
+        {
+            "id" : 1,
+            "type": "multiple-choice",
+            "prompt": "Which dept is best?",
+            "options": ["Dotnet", "MEAN", "Python", "All"],
+            "answer": "All"
+        },
+        {
+            "id" : 2,
+            "type": "true-false",
+            "prompt": "The sun rises in the east",
+            "options": ["True", "False"],
+            "answer": "True"
+        },
+        {
+            "id" : 3,
+            "type": "Match the following",
+            "prompt": "Match the following",
+            "options": ["option 1", "option 2", "option 3", "option 4"],
+            "answer": ["answer 2", "answer 1", "answer 4", "answer 3"]
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="352.41" height="334.099" viewBox="0 0 352.41 334.099">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.23" x2="0.5" y2="1.18" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc980"/>
+      <stop offset="0.629" stop-color="#ff8080"/>
+      <stop offset="0.863" stop-color="#ff8080" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_9881" data-name="Group 9881" transform="translate(-396.648 -309.663)">
+    <rect id="Rectangle_2430" data-name="Rectangle 2430" width="202.333" height="299.042" rx="13.188" transform="translate(529.196 327.191)" fill="#212121"/>
+    <g id="Group_9857" data-name="Group 9857">
+      <rect id="Rectangle_2431" data-name="Rectangle 2431" width="284.091" height="294.002" rx="15.495" transform="translate(396.648 333.473)" fill="url(#linear-gradient)"/>
+      <text id="Semifinals_Finals" data-name="Semifinals
+&amp; Finals" transform="translate(423.148 386.781)" font-size="36" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Semifinals</tspan><tspan x="0" y="36">&amp; Finals</tspan></text>
+      <text id="at_Chennai" data-name="at Chennai" transform="translate(423.492 459.438)" font-size="19.511" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">at Chennai</tspan></text>
+      <text id="_3" data-name="3" transform="translate(628.749 398.988)" fill="#8c034e" font-size="50.341" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">3</tspan></text>
+    </g>
+  </g>
+</svg>

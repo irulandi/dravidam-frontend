@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="302.535" height="246.463" viewBox="0 0 302.535 246.463">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.161" x2="0.5" y2="0.953" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc980"/>
+      <stop offset="1" stop-color="#ff8080"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_9880" data-name="Group 9880" transform="translate(-858.757 -392.483)">
+    <rect id="Rectangle_2421" data-name="Rectangle 2421" width="30.969" height="135.026" rx="3.467" transform="translate(876.052 409.777)" fill="#212121"/>
+    <g id="Group_9852" data-name="Group 9852">
+      <rect id="Rectangle_2432" data-name="Rectangle 2432" width="270.043" height="227.934" rx="13.301" transform="translate(891.249 411.012)" fill="url(#linear-gradient)"/>
+      <text id="_2" data-name="2" transform="translate(1108.865 475.152)" fill="#8c034e" font-size="50.341" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">2</tspan></text>
+      <text id="Zonal_Level" data-name="Zonal 
+Level" transform="translate(919.403 462.945)" font-size="36" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Zonal </tspan><tspan x="0" y="36">Level</tspan></text>
+      <text id="In-Person_team_event" data-name="In-Person team event" transform="translate(919.747 530.67)" font-size="19.511" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">In-Person team event</tspan></text>
+    </g>
+  </g>
+</svg>

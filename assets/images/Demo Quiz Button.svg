@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="44" viewBox="0 0 230 44">
+  <g id="Demo_Quiz_Button" data-name="Demo Quiz Button" transform="translate(-997 -3232)">
+    <g id="login" transform="translate(920 2578)">
+      <rect id="Rectangle_137" data-name="Rectangle 137" width="168" height="44" rx="4" transform="translate(139 654)" fill="#f2b705"/>
+      <text id="Demo_Quiz" data-name="Demo Quiz" transform="translate(223 682)" fill="#050505" font-size="16" font-family="Poppins-Regular, Poppins"><tspan x="-43" y="0">Demo Quiz</tspan></text>
+    </g>
+    <text id="Click_to" data-name="Click to" transform="translate(997 3259)" fill="#f2f2f2" font-size="14" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Click to</tspan></text>
+  </g>
+</svg>

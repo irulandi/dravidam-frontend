@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <g id="Login" transform="translate(-1235 -1740)">
+    <g id="Rectangle_2680" data-name="Rectangle 2680" transform="translate(1235 1740)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="22" height="22" stroke="none"/>
+      <rect x="0.5" y="0.5" width="21" height="21" fill="none"/>
+    </g>
+    <path id="Icon_open-account-login" data-name="Icon open-account-login" d="M7.474,0V2.491h9.965V14.948H7.474v2.491H19.93V0ZM9.965,4.983V7.474H0V9.965H9.965v2.491l4.983-3.737Z" transform="translate(1236.035 1742.28)" fill="#050505"/>
+  </g>
+</svg>

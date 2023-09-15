@@ -1,0 +1,116 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="948.196" height="338.883" viewBox="0 0 948.196 338.883">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.184" stop-color="#fff"/>
+      <stop offset="0.186" stop-color="#fffcf7"/>
+      <stop offset="0.187" stop-color="#fff5e1"/>
+      <stop offset="0.19" stop-color="#ffeabe"/>
+      <stop offset="0.193" stop-color="#ffdb8d"/>
+      <stop offset="0.196" stop-color="#ffc74e"/>
+      <stop offset="0.199" stop-color="#ffb003"/>
+      <stop offset="0.199" stop-color="#ffaf00"/>
+      <stop offset="0.222" stop-color="#ff9c00"/>
+      <stop offset="0.249" stop-color="#ff8100"/>
+      <stop offset="0.303" stop-color="#d36a00"/>
+      <stop offset="0.372" stop-color="#a25200"/>
+      <stop offset="0.446" stop-color="#763c00"/>
+      <stop offset="0.521" stop-color="#522900"/>
+      <stop offset="0.6" stop-color="#341a00"/>
+      <stop offset="0.683" stop-color="#1d0e00"/>
+      <stop offset="0.772" stop-color="#0c0600"/>
+      <stop offset="0.871" stop-color="#030100"/>
+      <stop offset="1"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-3" cx="0.5" cy="0.5" r="0.5" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-5" cx="0.5" cy="0.5" r="0.5" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-6" cx="0.5" cy="0.5" r="0.5" xlink:href="#radial-gradient"/>
+    <radialGradient id="radial-gradient-17" cx="0.5" cy="0.5" r="0.5" xlink:href="#radial-gradient"/>
+  </defs>
+  <g id="Group_9874" data-name="Group 9874" transform="translate(-230.402 -98.081)">
+    <g id="Group_9052" data-name="Group 9052" transform="translate(23 90.543)">
+      <g id="Group_9051" data-name="Group 9051" style="mix-blend-mode: screen;isolation: isolate">
+        <path id="Path_4889" data-name="Path 4889" d="M229.541,209.96a11.07,11.07,0,1,1-11.076-11.071A11.083,11.083,0,0,1,229.541,209.96Z" fill="url(#radial-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_9054" data-name="Group 9054">
+      <g id="Group_9053" data-name="Group 9053" style="mix-blend-mode: screen;isolation: isolate">
+        <path id="Path_4890" data-name="Path 4890" d="M734.579,419.97a16.994,16.994,0,1,1-16.988-16.989A16.986,16.986,0,0,1,734.579,419.97Z" fill="url(#radial-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_9056" data-name="Group 9056">
+      <g id="Group_9055" data-name="Group 9055" style="mix-blend-mode: screen;isolation: isolate">
+        <path id="Path_4891" data-name="Path 4891" d="M1082.124,323.12a5.322,5.322,0,1,1-5.323-5.322A5.328,5.328,0,0,1,1082.124,323.12Z" fill="url(#radial-gradient-3)"/>
+      </g>
+    </g>
+    <g id="Group_9058" data-name="Group 9058" transform="translate(32.061 19.654)">
+      <g id="Group_9057" data-name="Group 9057" style="mix-blend-mode: screen;isolation: isolate">
+        <path id="Path_4892" data-name="Path 4892" d="M624.538,98.379a19.958,19.958,0,1,1-19.965-19.952A19.953,19.953,0,0,1,624.538,98.379Z" fill="url(#radial-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_9060" data-name="Group 9060" transform="translate(-7.497 47.612)">
+      <g id="Group_9059" data-name="Group 9059" style="mix-blend-mode: screen;isolation: isolate">
+        <path id="Path_4893" data-name="Path 4893" d="M775.606,125.6a16.765,16.765,0,1,1-16.765-16.758A16.766,16.766,0,0,1,775.606,125.6Z" fill="url(#radial-gradient-5)"/>
+      </g>
+    </g>
+    <g id="Group_9062" data-name="Group 9062">
+      <g id="Group_9061" data-name="Group 9061" style="mix-blend-mode: screen;isolation: isolate">
+        <path id="Path_4894" data-name="Path 4894" d="M1014.513,322.2a10.624,10.624,0,1,1-10.619-10.624A10.62,10.62,0,0,1,1014.513,322.2Z" fill="url(#radial-gradient-6)"/>
+      </g>
+    </g>
+    <g id="Group_9064" data-name="Group 9064">
+      <g id="Group_9063" data-name="Group 9063" style="mix-blend-mode: screen;isolation: isolate">
+        <path id="Path_4895" data-name="Path 4895" d="M322.726,227.6A11.07,11.07,0,1,1,311.65,216.54,11.064,11.064,0,0,1,322.726,227.6Z" fill="url(#radial-gradient-5)"/>
+      </g>
+    </g>
+    <g id="Group_9066" data-name="Group 9066">
+      <g id="Group_9065" data-name="Group 9065" style="mix-blend-mode: screen;isolation: isolate">
+        <path id="Path_4896" data-name="Path 4896" d="M982.607,224.47a15.12,15.12,0,1,1-15.126-15.114A15.112,15.112,0,0,1,982.607,224.47Z" fill="url(#radial-gradient-5)"/>
+      </g>
+    </g>
+    <g id="Group_9068" data-name="Group 9068">
+      <g id="Group_9067" data-name="Group 9067" style="mix-blend-mode: screen;isolation: isolate">
+        <path id="Path_4897" data-name="Path 4897" d="M906.437,311.664a26.6,26.6,0,1,1-26.6-26.59A26.6,26.6,0,0,1,906.437,311.664Z" fill="url(#radial-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_9070" data-name="Group 9070">
+      <g id="Group_9069" data-name="Group 9069" style="mix-blend-mode: screen;isolation: isolate">
+        <path id="Path_4898" data-name="Path 4898" d="M450.45,274.661a16.339,16.339,0,1,1-16.333-16.339A16.332,16.332,0,0,1,450.45,274.661Z" fill="url(#radial-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_9072" data-name="Group 9072">
+      <g id="Group_9071" data-name="Group 9071" style="mix-blend-mode: screen;isolation: isolate">
+        <path id="Path_4899" data-name="Path 4899" d="M812.413,224.122A30.516,30.516,0,1,1,781.9,193.614,30.524,30.524,0,0,1,812.413,224.122Z" fill="url(#radial-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_9074" data-name="Group 9074">
+      <g id="Group_9073" data-name="Group 9073" style="mix-blend-mode: screen;isolation: isolate">
+        <path id="Path_4900" data-name="Path 4900" d="M499.763,389.663A14.262,14.262,0,1,1,485.5,375.4,14.254,14.254,0,0,1,499.763,389.663Z" fill="url(#radial-gradient-6)"/>
+      </g>
+    </g>
+    <g id="Group_9076" data-name="Group 9076">
+      <g id="Group_9075" data-name="Group 9075" style="mix-blend-mode: screen;isolation: isolate">
+        <path id="Path_4901" data-name="Path 4901" d="M668.384,212.318A46.481,46.481,0,1,1,621.9,165.851,46.48,46.48,0,0,1,668.384,212.318Z" fill="url(#radial-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_9078" data-name="Group 9078">
+      <g id="Group_9077" data-name="Group 9077" style="mix-blend-mode: screen;isolation: isolate">
+        <path id="Path_4902" data-name="Path 4902" d="M739.021,320.047a41.211,41.211,0,1,1-41.211-41.192A41.209,41.209,0,0,1,739.021,320.047Z" fill="url(#radial-gradient-5)"/>
+      </g>
+    </g>
+    <g id="Group_9080" data-name="Group 9080">
+      <g id="Group_9079" data-name="Group 9079" style="mix-blend-mode: screen;isolation: isolate">
+        <path id="Path_4903" data-name="Path 4903" d="M493.129,156.23a18.246,18.246,0,1,1-18.246-18.24A18.255,18.255,0,0,1,493.129,156.23Z" fill="url(#radial-gradient)"/>
+      </g>
+    </g>
+    <g id="Group_9082" data-name="Group 9082">
+      <g id="Group_9081" data-name="Group 9081" style="mix-blend-mode: screen;isolation: isolate">
+        <path id="Path_4904" data-name="Path 4904" d="M1178.6,233a8.717,8.717,0,1,1-8.716-8.711A8.718,8.718,0,0,1,1178.6,233Z" fill="url(#radial-gradient-5)"/>
+      </g>
+    </g>
+    <g id="Group_9084" data-name="Group 9084">
+      <g id="Group_9083" data-name="Group 9083" style="mix-blend-mode: screen;isolation: isolate">
+        <path id="Path_4905" data-name="Path 4905" d="M1088.035,183.056a9.851,9.851,0,1,1-9.844-9.844A9.849,9.849,0,0,1,1088.035,183.056Z" fill="url(#radial-gradient-17)"/>
+      </g>
+    </g>
+  </g>
+</svg>

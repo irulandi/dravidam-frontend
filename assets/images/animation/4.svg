@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="269.895" height="203.855" viewBox="0 0 269.895 203.855">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.202" x2="0.5" y2="1.084" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffc980"/>
+      <stop offset="0.629" stop-color="#ff8080"/>
+      <stop offset="0.863" stop-color="#ff8080" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_9882" data-name="Group 9882" transform="translate(-206.29 -478.479)">
+    <rect id="Rectangle_2434" data-name="Rectangle 2434" width="72.262" height="140.807" rx="5.408" transform="translate(396.648 485.754)" fill="#303030" opacity="0.25"/>
+    <g id="Group_9126" data-name="Group 9126" transform="translate(0 20)">
+      <path id="Rectangle_2435" data-name="Rectangle 2435" d="M11,0H221.885a11,11,0,0,1,11,11V180.887a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V11A11,11,0,0,1,11,0Z" transform="translate(206.29 481.446)" fill="url(#linear-gradient)"/>
+      <text id="_1" data-name="1" transform="translate(400.667 541.529)" fill="#8c034e" font-size="50.341" font-family="Poppins-Light, Poppins" font-weight="300"><tspan x="0" y="0">1</tspan></text>
+      <text id="District_Level" data-name="District
+Level" transform="translate(231.403 529.322)" font-size="36" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">District</tspan><tspan x="0" y="36">Level</tspan></text>
+      <text id="_Online_Quiz" data-name="
+Online Quiz" transform="translate(231.201 574.484)" font-size="19.511" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0"></tspan><tspan x="0" y="23.413">Online Quiz</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,28 @@
+{
+    "answer" : [
+        {
+            "id" : 1,
+            "questionId" : 1,
+            "answer" : "1986",
+            "isAnswer" : 1
+        },
+        {
+            "id" : 2,
+            "questionId" : 2,
+            "answer" : "1948",
+            "isAnswer" : 1
+        },
+        {
+            "id" : 3,
+            "questionId" : 3,
+            "answer" : "1952",
+            "isAnswer" : 1
+        },
+        {
+            "id" : 4,
+            "questionId" : 4,
+            "answer" : "2009",
+            "isAnswer" : 1
+        }
+    ]
+}

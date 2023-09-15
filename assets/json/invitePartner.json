@@ -1,0 +1,110 @@
+{
+    "invitePatnerTamil":[
+        {
+            "id" : 1,
+            "content" : "கலைஞர் 100 வினா விடை போட்டி ஒரு குழு நிகழ்வு. உங்கள் அணியினரை விரைவில் பதிவு செய்வது அவசியம்."
+        },
+        {
+            "id" : 2,
+            "content" : "முன்னணி அணிகள் இணையவழி சுற்றின் முடிவில் சரிபார்க்கப்படும். "
+        },
+        {
+            "id" : 3,
+            "content" : "குழப்பங்களை தவிர்க்க விவரங்களை உள்ளிட்டு சரிபார்க்கவும்."
+        },
+        {
+            "id" : 4,
+            "content" : "உங்கள் குழு உறுப்பினர்கள் அதே வயது பிரிவில் இருக்க வேண்டும் என்பதை நினைவில் கொள்ளவும்."
+        }
+    ],
+    "invitePatnerEnglish":[
+        {
+            "id" : 1,
+            "content" : "The Kalaignar 100 Quiz is a team event. It’s important that you register your teammates soon."
+        }, 
+        {
+            "id" : 2,
+            "content" : "Leading Teams will be verified toward the end of the Online Quiz period. "
+        }, 
+        {
+            "id" : 3,
+            "content" : "Kindly enter the details and get it verified to avoid confusion in the future."
+        },
+        {
+            "id" : 4,
+            "content" : "Please note your team members need to be in the same age category."
+        }
+    ],
+    "inviteModelPopupTamil" : [
+        {
+            "id" : 1,
+            "content" : "உங்கள் அணியை சேர்த்து புள்ளிகளை உயர்த்த வேண்டிய நேரம் இது!"
+        }
+    ],
+    "inviteModelPopupEnglish" : [
+        {
+            "id" : 1,
+            "content" : "It's time to bring in your team & improve your score"
+        }
+    ],
+    "quizInstructionTamil" : [
+        {
+            "id" : 1,
+            "content" : "கலைஞர் 100 இணையவழி வினாடி விடை போட்டி ஒரு நிலையான வடிவமைப்பைப் பின்பற்றுகிறது. பெரும்பாலான கேள்விகளுக்குக் குறிப்பிட்ட நேரத்திற்குள் சரியாகப் பதிலளிப்பதே போட்டிக்கான குறிக்கோள்."
+        },
+        {
+            "id" : 2,
+            "content" : "பங்கேற்பாளர்கள்,'கொள்குறி வினாக்கள்'(Multiple Choice) வடிவில் அமைந்துள்ள போட்டிகளை எதிர்கொள்ளத் தயாராக இருக்க வேண்டும்."
+        },
+        {
+            "id" : 3,
+            "content" : "இணையவழி வினாடி வினா கட்டத்தின் இறுதிக் காலக்கெடுவிற்கு முன் ஒரு குழு தங்களது சிறந்த மதிப்பெண்களைப் பெற மொத்தம் 100 முறை வினாடி வினாவை முயற்சி செய்யலாம்."
+        },
+        {
+            "id" : 4,
+            "content" : "வினாடி வினா தொடங்கியவுடன் முதல் கேள்வி திரையில் தோன்றும். நேர வரையறையும் (திரையின் மேல் வலது மூலையில் காட்டப்படும்) தொடங்கிவிடும்."
+        },
+        {
+            "id" : 5,
+            "content" : "ஒவ்வொரு முயற்சிக்கும் 50 கேள்விகள் வரை பதிலளிக்க 100 வினாடிகள் வழங்கப்படும்."
+        },
+        {
+            "id" : 6,
+            "content" : "அடுத்த கேள்விக்கு முன்னேறும் முன் திரையில் தெரியும் கேள்விக்குப் பதிலளிக்க வேண்டும்."
+        },
+        {
+            "id" : 7,
+            "content" : "நேரம் முடிந்ததும் வினாடி வினா முடிவடையும். இறுதியாக மதிப்பெண்கள் தெரியும்."
+        }
+    ],
+    "quizInstructionEnglish" : [
+        {
+            "id" : 1,
+            "content" : "The Kalaignar 100 Online Quiz follows a standard format. Answering most questions correctly within the stipulated time is the goal of the quiz."
+        },
+        {
+            "id" : 2,
+            "content" : "There are Multiple Choice Questions participants need to be ready to face."
+        },
+        {
+            "id" : 3,
+            "content" : "Once you begin the quiz, the first question appears and the timer (displayed in the top right corner of the screen) starts running."
+        },
+        {
+            "id" : 4,
+            "content" : "You have 100 seconds for each attempt to answer the maximum of 50 questions."
+        },
+        {
+            "id" : 5,
+            "content" : "You need to answer the question that is visible before advancing to the next question."
+        },
+        {
+            "id" : 6,
+            "content" : "The quiz ends when the timer runs out. The score is visible at the end of the quiz."
+        },
+        {
+            "id" : 7,
+            "content" : "A team can attempt the quiz a total of 100 times to get their best scores before the final deadline of the Online Quiz Stage."
+        }
+    ]
+}

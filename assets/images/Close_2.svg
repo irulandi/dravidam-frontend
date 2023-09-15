@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Close_2" data-name="Close 2" transform="translate(-1237 -1756)">
+    <g id="Rectangle_2654" data-name="Rectangle 2654" transform="translate(1237 1756)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="50" height="50" stroke="none"/>
+      <rect x="0.5" y="0.5" width="49" height="49" fill="none"/>
+    </g>
+    <g id="Icon_ionic-ios-close-circle-outline" data-name="Icon ionic-ios-close-circle-outline" transform="translate(1234.12 1753.121)">
+      <path id="Path_20" data-name="Path 20" d="M30.681,28.022l-6.209-6.209,6.209-6.209a1.883,1.883,0,1,0-2.663-2.663L21.81,19.151,15.6,12.943a1.883,1.883,0,0,0-2.663,2.663l6.209,6.209-6.209,6.209a1.82,1.82,0,0,0,0,2.663,1.87,1.87,0,0,0,2.663,0l6.209-6.209,6.209,6.209a1.891,1.891,0,0,0,2.663,0A1.87,1.87,0,0,0,30.681,28.022Z" transform="translate(6.069 6.066)" fill="red"/>
+      <path id="Path_21" data-name="Path 21" d="M27.88,6.674a21.209,21.209,0,0,1,15,36.2A21.209,21.209,0,0,1,12.882,12.882a21.066,21.066,0,0,1,15-6.209m0-3.3a24.5,24.5,0,1,0,24.5,24.5,24.5,24.5,0,0,0-24.5-24.5Z" transform="translate(0 0)" fill="red"/>
+    </g>
+  </g>
+</svg>

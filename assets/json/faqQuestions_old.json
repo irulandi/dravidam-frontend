@@ -1,0 +1,140 @@
+{
+    "tamil" : [
+        {
+            "id" : 1,
+            "question" : "போட்டியில் பங்கேற்க ஏதேனும் கட்டணம் உள்ளதா?",
+            "answer" : "போட்டியில் பங்கேற்கக் கட்டணம் எதுவும் செலுத்தத் தேவையில்லை."
+        },
+        {
+            "id" : 2,
+            "question" : "அனைத்து வினாடி வினா போட்டிகளுக்கும் நேர வரையறை உள்ளதா?",
+            "answer" : "ஆம். இணையவழி வினாடி வினாக்கள் காலக்கெடு கொண்டவை. ஒரு முயற்சியை முடிக்க உங்களுக்கு 100 வினாடிகள் உள்ளன."
+        },
+        {
+            "id" : 3,
+            "question" : "இணையவழி வினாடி வினா போட்டிக்கு பதிவு செய்த பிறகு நான் அணிகளை மாற்றலாமா?",
+            "answer" : "இல்லை, வினாடி வினாவில் பதிவு செய்த பிறகு அணிகளை மாற்ற அனுமதி இல்லை."
+        },
+        {
+            "id" : 4,
+            "question" : "போட்டியின் இரண்டாவது சுற்றுக்கு நான் தகுதி பெற்றதை எப்படி நான் தெரிந்துக் கொள்வது.",
+            "answer" : "முதல் சுற்று முடிந்ததும் நாங்கள் உங்களைத் தொடர்புகொள்வோம்."
+        },
+        {
+            "id" : 5,
+            "question" : "அலைப்பேசி அல்லது டேப்லெட் மூலம் போட்டியில் பங்குபெறலாமா?",
+            "answer" : "ஆம், நீங்கள் கணினி, அலைப்பேசி அல்லது டேப்லெட்டைப் பயன்படுத்தலாம்."
+        },
+        {
+            "id" : 6,
+            "question" : "எனது பதிவு செய்யப்பட்ட கணக்கின் அலைப்பேசி எண்ணை மாற்ற முடியுமா?",
+            "answer" : "இல்லை, பதிவுசெய்யப்பட்ட கணக்கின் அலைப்பேசி எண்ணை மாற்ற அனுமதி கிடையாது."
+        },
+        {
+            "id" : 7,
+            "question" : "தமிழ்நாட்டில் வசிப்பவர்கள் மட்டும்தான் பங்கேற்க முடியுமா?",
+            "answer" : "இல்லை, இந்த வினாடி வினா போட்டி அனைவருக்குமானது."
+        },
+        {
+            "id" : 8,
+            "question" : "இறுதி சுற்றில் வெற்றி பெறுபவர்களுக்கு என்ன பரிசு? ",
+            "answer" : "போட்டியில் வெற்றி பெறும் அணிக்கு ரூ.3 இலட்சம் பரிசாக வழங்கப்படும்.  இரண்டாம் பரிசாக ரூ.1 இலட்சமும், மூன்றாம் பரிசாக ரூ.50 ஆயிரமும் வழங்கப்படும்.  போட்டியில் பங்கேற்கும் பலருக்கும் ரூ.50 ஆயிரம் மதிப்பிலான பரிசுகள் பகிர்ந்தளிக்கப்படும். "
+        },
+        {
+            "id" : 9,
+            "question" : "போட்டியில் பங்கேற்பதற்கான வயது அளவுகோல் என்ன?",
+            "answer" : "18 வயதுக்கு உள்ளானவர்கள் மாணவராகவும், 18 வயதுக்கு மேலானவர்கள் பொதுப் பிரிவிலும் பதிவுசெய்து கொள்ளவேண்டும்."
+        },
+        {
+            "id" : 10,
+            "question" : "இணையதளத்தின் மொழியை எப்படி மாற்றுவது?",
+            "answer" : "இணையதளத்தின் வலதுபக்க மேல் மூலையில் உள்ள பொத்தான் மூலம் இணையதளத்தின் மொழியை மாற்றிக் கொள்ளலாம்."
+        },
+        {
+            "id" : 11,
+            "question" : "முதல் சுற்றை பயிற்சிமுறையில் மேற்கொள்ள முடியுமா?",
+            "answer" : "ஆம், இணையதளத்தில் டெமோ வினாடி வினா பிரிவை பயன்படுத்தலாம்."
+        },
+        {
+            "id" : 12,
+            "question" : "எனது கடந்த வினாடி வினா போட்டியின் மதிப்பெண்களைத் தெரிந்து கொள்ளமுடியுமா?",
+            "answer" : "ஆம், தங்களின் முந்தைய முயற்சிகளின் மதிப்பெண்களை டாஷ்போர்டு பிரிவில் தெரிந்து கொள்ளமுடியும்."
+        }
+    ],
+    "english" : [
+        {
+            "id" : 1,
+            "question" : "Is there any fee to enter the contest?",
+            "answer" : "There is NO FEES required to enter the contest."
+        },
+        {
+            "id" : 2,
+            "question" : "Are all the quizzes time-bound?",
+            "answer" : "Yes. The online quizzes are time-bound. You have 100 seconds to finish a single attempt of the quiz."
+        },
+        {
+            "id" : 3,
+            "question" : "Can i change teams after registering for the online quiz?",
+            "answer" : "No, You won't be allowed to change teams after registering for the quiz."
+        },
+        {
+            "id" : 4,
+            "question" : "Will I receive notifications if I qualify for the second round of the quiz?",
+            "answer" : "We will reach out to you once the round 1 is over, if you clear the necessary selection criteria."
+        },
+        {
+            "id" : 5,
+            "question" : "Can I enter the quiz with mobile or tablet?",
+            "answer" : "Yes, you can use a PC, mobile or a tablet. The site is compatible for all devices. Please ensure your internet connection is stable."
+        },
+        {
+            "id" : 6,
+            "question" : "Can i change mobile number of my registered account?",
+            "answer" : "No, you won't be able to change the mobile number of the registered account. This is done to ensure fair participation from all participants."
+        },
+        {
+            "id" : 7,
+            "question" : "Is entry limited to residents of Tamil Nadu?",
+            "answer" : "No, this quiz is open to everyone. Users will have an option to mention that their location is outside Tamil Nadu."
+        },
+        {
+            "id" : 8,
+            "question" : "What is the prize for the winners of the Grand Finale?",
+            "answer" : "Winning team gets Rs. 3 lakh as the first prize. 2nd prize - Rs. 1 lakh 3rd prize - Rs. 50,000. We also have special prizes worth Rs. 50,000 split between different participants."
+        },
+        {
+            "id" : 9,
+            "question" : "What is the age criteria in th quiz?",
+            "answer" : "Applicants under the age of 18 register as Students. Applicants over the age of 18 should register in the open category"
+        },
+        {
+            "id" : 10,
+            "question" : "How do I change the language of the website?",
+            "answer" : "There is a button in the top right corner of the website to allow users to change the language of the website."
+        },
+        {
+            "id" : 11,
+            "question" : "Can I do a trial round of quiz?",
+            "answer" : "Yes, you can use the demo quiz option in the website."
+        },
+        {
+            "id" : 12,
+            "question" : "Can i see the scores of all my past attempts of the quiz?",
+            "answer" : "Yes, the scores of all the previous attempts will be visible in the dashboard section."
+        }
+    ],
+    "quizmasterTamil":[
+        {
+            "id" : 1,
+            "title" : "அமைப்பாளரின் முக்கிய செய்தி",
+            "content" : "திராவிட இயக்கத்தின் கொள்கைகளையும் வரலாற்றையும் முற்றிலும் புதிய பரிமாணத்தில் இன்றைய தலைமுறைக்கு எடுத்துச் செல்லும் முயற்சி இது. எனது சிந்தனையை வடிவமைத்த இந்த இயக்கத்தைப் பின்பற்றுபவராக நான் இந்தப் பொறுப்பை ஏற்றுக்கொள்கிறேன்.இந்தக் கேள்விகளுக்கான பதில்களில் திராவிட இயக்க வரலாற்றின் பெருமைகளை மட்டுமல்லாமல்,எதிர்காலத்திற்கு வழிகாட்டும் ஒளியையும் காண்பீர்கள் என்று நம்புகிறேன்"
+        }
+    ],
+    "quizmasterEnglish":[
+        {
+            "id" : 1,
+            "title" : "A Message From Your Quizmaster",
+            "content" : "This is a heartfelt attempt to take the Dravidian movement’s principles and history to today’s generation in a completely new dimension. I’m taking this responsibility as a follower of this movement that has shaped my thought. In the answers to these questions, I’m hoping you’ll find remnants of history that’ll not just talk about the past, but will be a guiding light for the future."
+        }
+    ]
+}

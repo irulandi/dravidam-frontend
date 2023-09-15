@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Hamburger" transform="translate(-2389 -175)">
+    <g id="Rectangle_2652" data-name="Rectangle 2652" transform="translate(2389 175)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="40" height="40" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="39" fill="none"/>
+    </g>
+    <g id="menu" transform="translate(2391 177)">
+      <rect id="Rectangle_132" data-name="Rectangle 132" width="36" height="36" fill="none"/>
+      <path id="Icon_material-menu" data-name="Icon material-menu" d="M4.5,33h36V29H4.5Zm0-10h36V19H4.5Zm0-14v4h36V9Z" transform="translate(-4.5 -3)" fill="#f2f2f2"/>
+    </g>
+  </g>
+</svg>

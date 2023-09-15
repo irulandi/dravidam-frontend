@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Delete" transform="translate(-1719 -1693)">
+    <g id="Rectangle_2685" data-name="Rectangle 2685" transform="translate(1719 1693)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="30" height="30" stroke="none"/>
+      <rect x="0.5" y="0.5" width="29" height="29" fill="none"/>
+    </g>
+    <path id="Icon_metro-bin" data-name="Icon metro-bin" d="M6.038,9.622V25.011A1.543,1.543,0,0,0,7.577,26.55h13.85a1.543,1.543,0,0,0,1.539-1.539V9.622H6.038Zm4.617,13.85H9.115V12.7h1.539Zm3.078,0H12.193V12.7h1.539Zm3.078,0H15.271V12.7H16.81Zm3.078,0H18.349V12.7h1.539ZM23.35,5.006h-5V3.082a1.158,1.158,0,0,0-1.154-1.154H11.808a1.158,1.158,0,0,0-1.154,1.154V5.006h-5A1.158,1.158,0,0,0,4.5,6.16V8.084H24.5V6.16A1.158,1.158,0,0,0,23.35,5.006Zm-6.54,0H12.193V3.486H16.81v1.52Z" transform="translate(1719.499 1693.761)" fill="#f2f2f2"/>
+  </g>
+</svg>

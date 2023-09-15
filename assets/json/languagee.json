@@ -1,0 +1,14 @@
+{
+    "language" : [
+        {
+            "id" : 1,
+            "option" : "Tamil",
+            "routerlink" : "/tamilLanguage"
+        },
+        {
+            "id" : 2,
+            "option" : "English",
+            "routerlink" : "/englishLanguage"
+        }
+    ]
+}

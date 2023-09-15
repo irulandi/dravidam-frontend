@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+  <g id="Timesup" transform="translate(-1276 -1539)">
+    <g id="Rectangle_2686" data-name="Rectangle 2686" transform="translate(1276 1539)" fill="#fff" stroke="#707070" stroke-width="1" opacity="0">
+      <rect width="60" height="60" stroke="none"/>
+      <rect x="0.5" y="0.5" width="59" height="59" fill="none"/>
+    </g>
+    <path id="Icon_material-timer" data-name="Icon material-timer" d="M33.162,1.5H18.831V6.277H33.162ZM23.608,32.551h4.777V18.22H23.608Zm19.18-15.788,3.392-3.392A26.389,26.389,0,0,0,42.812,10L39.42,13.395a21.495,21.495,0,1,0,3.368,3.368ZM26,46.882a16.72,16.72,0,1,1,16.72-16.72A16.707,16.707,0,0,1,26,46.882Z" transform="translate(1280.003 1542.422)" fill="#8c034e" stroke="#fff" stroke-width="2"/>
+  </g>
+</svg>
